@@ -22,11 +22,11 @@ def video_select():
 
     if opcao_escolhida:
         
-        for stream in yt.streams.filter(only_audio=True):
-            print(stream)
+        stream = yt.streams.filter(only_audio=True).get_by_itag("251")
+        print(stream)
 
         yt = yt.streams.get_audio_only()
-        yt.download(output_path= "Downloads do YouTube")
+        stream.download(filename=f"{yt.title}.mp3",output_path="Downloads do YouTube")
      
 
 
