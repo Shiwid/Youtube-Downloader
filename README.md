@@ -1,7 +1,7 @@
 # Thats a little project just for me and my friends.
 
-# the main goal of this app is just to download videos in mp3 format, mostly for editing!
+# the main goal of this app is just to download videos in mp3 or mp4 format mostly for editing!
 
 # YAY!
 
-(may add the function to download in .mp4 too later idk xd)
+#ps: u may need to convert the file if you are using Sony Vegas
