@@ -5,3 +5,4 @@
 # YAY!
 
 #ps: u may need to convert the file if you are using Sony Vegas
+#ps²: there's a lil easter egg inside the MP3 and MP4 folders ;)
